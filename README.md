@@ -2,5 +2,7 @@
 Demo example for StackOverFlow
 
 Import project using Gradle
+
 Run Postgres using Docker-compose file
+
 Run DemoApplicationTests
